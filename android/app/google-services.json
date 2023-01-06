@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595320539048",
+    "project_id": "flutter-monkeychatapplication",
+    "storage_bucket": "flutter-monkeychatapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595320539048:android:34c1131e836de6d87a3f9d",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595320539048-m7u6k6re26eehgck1elmdcbuhu7kruo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZAwprbrQRLVnBnXAs1uE6epi7YQi1oCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595320539048-m7u6k6re26eehgck1elmdcbuhu7kruo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
